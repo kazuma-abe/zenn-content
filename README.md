@@ -1,1 +1,1 @@
-# zenn-content
+# Zennの記事を置く。
