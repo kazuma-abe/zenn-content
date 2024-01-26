@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "自分の聴いている音楽から心理状態を探る"
 emoji: 
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["音楽", "Spotify", "json"]
